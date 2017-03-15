@@ -1,0 +1,24 @@
+//key value pairs these are all now JSON objects
+[
+  {
+    "song": "Blue aint your colour",
+    "artist" : "Keith Urban",
+    "genre" : "Country"
+  },
+  
+    {
+    "song": "Beyond the Burning Sky",
+    "artist" : "Battle Beast",
+    "genre" : "Rock"
+  },
+    
+  {
+    "song": "All About the Base",
+    "artist" : "Meghan Trainor",
+    "genre" : "Pop"
+  }
+ 
+    
+  
+]
+//(YouTube, 2017)
